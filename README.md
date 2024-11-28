@@ -1,16 +1,19 @@
-## Hi there 👋
+## Nana Waifu 
+![banner](https://github.com/user-attachments/assets/d24fba4a-2b4b-4d4e-848a-e5eab7168bcd)
 
-<!--
-**NanaWaifu/NanaWaifu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+NANA Waifu is an AI powered companion, voice assistant, Vtuber, defined by the charm of our first anime character NANA. This project is meant to create an engaging experience where you can interact with a desired character in real-time without powerful hardware and spontaneously.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Features:
+
+🎤 Voice Interaction: Talk to your AI waifu and get instant (almost) responses.
+- Whisper - openai's paid speech recognition.
+- Google sr - free speech recognition alternative.
+- Console - if you don't want use microphone just type prompts with your keyboard.
+   
+🤖 AI Chatbot Integration: Conversations are powered by an AI chatbot, ensuring engaging and dynamic interactions.
+- Openai's 'gpt-3.5-turbo' or any other available model.
+- File with personality and behaviour description.
+- Remembers previous messages.
+
+
