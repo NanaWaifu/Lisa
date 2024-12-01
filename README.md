@@ -1,8 +1,8 @@
-## Nana Waifu 
+## Lisa
 ![banner](https://github.com/user-attachments/assets/d24fba4a-2b4b-4d4e-848a-e5eab7168bcd)
 
 
-NANA Waifu is an AI powered companion, voice assistant, Vtuber, defined by the charm of our first anime character NANA. This project is meant to create an engaging experience where you can interact with a desired character in real-time without powerful hardware and spontaneously.
+Lisa is an AI powered companion, voice assistant, Vtuber, defined by the charm of our first anime character LISA. This project is meant to create an engaging experience where you can interact with a desired character in real-time without powerful hardware and spontaneously.
 
 Features:
 
